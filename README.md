@@ -1,12 +1,16 @@
 # CNN
 
-
+## Environment
 ```
 python -m venv myenv
 
 myenv\Scripts\activate # on Windows
 
 source myenv/bin/activate # on macOS/Linux
+```
+## Requirements
+```
+pip install -r requirements.txt
 ```
 ## Dataset 
 
