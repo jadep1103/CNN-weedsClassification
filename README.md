@@ -47,8 +47,7 @@ pip install -r requirements.txt
 
 ### Dataset
 
-Dataset is available from this drive: 
-
+Dataset is available from the following [Drive](https://drive.google.com/drive/u/2/folders/1rBZAhALUSF1WX1x4DeUNkQe96vC9LPiO)
 
 ## 🔧 Training
 
